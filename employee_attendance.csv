@@ -1,0 +1,11 @@
+Employee_ID,Name,Department,Month,Total_Working_Days,Days_Present
+E001,Amit,HR,January,22,20
+E002,Priya,Finance,January,22,21
+E003,Rahul,IT,January,22,18
+E004,Neha,Sales,January,22,22
+E005,Karan,Marketing,January,22,19
+E006,Pooja,IT,January,22,21
+E007,Dev,Finance,January,22,22
+E008,Riya,HR,January,22,20
+E009,Ankit,Sales,January,22,17
+E010,Meera,Marketing,January,22,22
